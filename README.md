@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lordonzo
+- 👋 Hi, I’m Virgile "Lordonzo"
 - 👀 I’m interested in games, programming, mangas, animes mainly and a lot more !
 - 🌱 ()
-- 📫 How to reach me : @Lordonzo on Twitter or Łσяđσиżσ#5520 on Discord
+- 📫 How to reach me : <b>@Lordonzo</b> on Twitter or <b>lordonzo</b> on Discord
 
 <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordonzo&layout=compact&theme=vue-dark">
 <!---
