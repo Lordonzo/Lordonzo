@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Virgile "Lordonzo"
-- 👀 I’m interested in games, programming, mangas, animes mainly and a lot more !
+- 👀 I’m interested in games, programming, animes, Japanese culture and a lot more !
 - 🌱 ()
 - 📫 How to reach me : <b>@Lordonzo</b> on Twitter or <b>lordonzo</b> on Discord
 
