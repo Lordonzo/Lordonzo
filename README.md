@@ -9,10 +9,10 @@
 <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordonzo&layout=compact&theme=vue-dark">
 
 <a href="https://github.com/Lordonzo/2048Game">
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/65089133/2048_logo.png?width=64">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/65089133/2048_logo.png?width=64">
 </a>
-<a>
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/65090326/ape_logo.png?width=64">
+<a href="https://github.com/Lordonzo/ESC-Ape-Game">
+  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/65090326/ape_logo.png?width=64">
 </a>
 <!---
 Lordonzo/Lordonzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
