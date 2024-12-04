@@ -9,7 +9,7 @@
 <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordonzo&layout=compact&theme=vue-dark">
 
 <a href="https://github.com/Lordonzo/2048Game">
-  <img src="https://github.com/Lordonzo/2048Game/blob/master/assets/2048_logo.png?width=64">
+  <img align="center" src="[https://github.com/Lordonzo/2048Game/blob/master/assets/2048_logo.png](https://raw.githubusercontent.com/Lordonzo/2048Game/refs/heads/master/assets/2048_logo.png)?width=64" />
 </a>
 <!---
 Lordonzo/Lordonzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
