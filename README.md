@@ -5,7 +5,7 @@
 - こんにちは。ヴィルジル「ロードンゾ」です。
 - 趣味はゲームやプログラミングやアニメや日本などのことです。
 
-## Statistiques
+## Statistics
 <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordonzo&layout=compact&theme=vue-dark">
 
 <!--
