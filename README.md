@@ -1,9 +1,6 @@
 ## Introduction
 - 👋 Hi, I’m Virgile "Lordonzo"
-- 👀 I’m interested in games, programming, animes, Japanese culture and a lot more !
-
 - こんにちは。ヴィルジル「ロードンゾ」です。
-- 趣味はゲームやプログラミングやアニメや日本などのことです。
 
 <!--
 ## Statistics
